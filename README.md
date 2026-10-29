@@ -24,7 +24,7 @@ The project includes programs related to memory allocation and process memory ma
 System-level programs can be used to understand process priority and scheduling concepts. Functions such as nice() demonstrate how process priority can influence CPU scheduling.
 
 7. Error Handling
-The project also demonstrates techniques for identifying and handling errors generated during system-level operations. This is important because system calls can fail due to permissions, invalid resources, unavailable files, or other operating-system conditions.
+The project also demonstrates techniques for identifying and handling errors generated during system-level operations. This is important because system calls can fail due to permissions, invalid resources, unavailable files, or other operating-system conditions
 
 8. Linux Environment
 The project is designed around the Linux environment and helps develop practical knowledge of Linux APIs, system calls, processes, files, memory, and other operating-system facilities.
