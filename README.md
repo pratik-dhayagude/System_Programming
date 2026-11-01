@@ -1,4 +1,4 @@
-System Programming is a collection of programs and practical implementations designed to explore and understand the interaction between software and the operating system. The project focuses mainly on Linux System Programming using C, providing hands-on examples of system calls, process management, file handling, threads, memory management, and other low-level operating-system concepts.
+"System Programming is a collection of programs and practical implementations designed to explore and understand the interaction between software and the operating system. The project focuses mainly on Linux System Programming using C, providing hands-on examples of system calls, process management, file handling, threads, memory management, and other low-level operating-system concepts".
 
 The project provides a practical approach to understanding how applications communicate with and utilize operating-system resources. Instead of working only with high-level programming concepts, the programs demonstrate how system-level operations are performed internally through Linux APIs and system calls.
 
